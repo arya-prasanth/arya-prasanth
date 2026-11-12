@@ -18,9 +18,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb0000,50:561fea,100:000000&height=3" width="100%"/>
 
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb0000,50:561fea,100:000000&height=3" width="100%"/>
+
 <h2>about 私自身</h2>
 
-```yaml
+<table>
+<tr>
+<td width="62%" valign="middle">
+
+<pre>
 profile:
   name: Arya PL (アリヤ)
   role: data analytics student
@@ -36,8 +44,21 @@ interests:
   - data analytics
   - ai agents
 
-hobbies: films, anime & games
-```
+hobbies: films, anime &amp; games
+</pre>
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/arya-prasanth/assets/about.png" width="320" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb0000,50:561fea,100:000000&height=3" width="100%"/>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb0000,50:561fea,100:000000&height=3" width="100%"/>
 
