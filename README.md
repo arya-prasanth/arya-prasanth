@@ -18,17 +18,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb0000,50:561fea,100:000000&height=3" width="100%"/>
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb0000,50:561fea,100:000000&height=3" width="100%"/>
-
 <h2>about 私自身</h2>
 
-<table>
-<tr>
-<td width="62%" valign="middle">
-
-<pre>
+```yaml
 profile:
   name: Arya PL (アリヤ)
   role: data analytics student
@@ -44,21 +36,8 @@ interests:
   - data analytics
   - ai agents
 
-hobbies: films, anime &amp; games
-</pre>
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/arya-prasanth/assets/about.png" width="320" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb0000,50:561fea,100:000000&height=3" width="100%"/>
-
-
+hobbies: films, anime & games
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb0000,50:561fea,100:000000&height=3" width="100%"/>
 
@@ -88,26 +67,22 @@ hobbies: films, anime &amp; games
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb0000,50:561fea,100:000000&height=3" width="100%"/>
 
-
 <h3 align="left">🔥 statistics</h3>
+
 <div align="center">
-<!-- Contribution snake animation -->
+
+<br/><br/>
+
+<!-- Requires the snake.yml GitHub Actions workflow -->
 <img src="https://raw.githubusercontent.com/arya-prasanth/arya-prasanth/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
 
 <br/>
 
-<!-- GitHub streak statistics -->
 <img src="https://streak-stats.demolab.com?user=arya-prasanth&theme=dark&hide_border=true&background=0d0d0d&ring=ff2e4d&fire=ff2e4d&currStreakNum=ff2e4d&currStreakLabel=ff2e4d&sideLabels=c9c9c9&sideNums=ffffff&dates=c9c9c9" alt="GitHub streak statistics"/>
-
-<br/><br/>
-
-<!-- Profile summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arya-prasanth&theme=github_dark" alt="Profile summary" width="95%"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb0000,50:561fea,100:000000&height=3" width="100%"/>
-
 
 <h3>🕯️ 連絡 · find me elsewhere</h3>
 
