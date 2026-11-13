@@ -1,6 +1,3 @@
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arya-prasanth.arya-prasanth&left_text=Souls%20Visited&left_color=black&right_color=red)
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D&section=header&animation=twinkling&rotate=2&fontAlign=50&fontColor=eb0000&fontSize=70&stroke=4E0CC7&strokeWidth=2&color=0:000000,40:2b0a1a,75:561fea,100:eb0000" width="100%"/>
