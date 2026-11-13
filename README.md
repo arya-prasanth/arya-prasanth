@@ -49,7 +49,7 @@ hobbies: films, anime & games
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,cpp,js,ts,php,html,css,react&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,git,github,vscode,figma,claude&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,git,github,vscode,figma,claudedark&theme=dark" />
 </p>
 
 <p align="center">
