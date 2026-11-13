@@ -24,7 +24,7 @@ profile:
   level: year 1
 
 education:
-  postgard: msc cs (Data Analytics)
+  postgrad: msc cs (Data Analytics)
   college: rajagiri college of social sciences
   undergrad: bca
   college: christ nagar college
