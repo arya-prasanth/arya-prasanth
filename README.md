@@ -48,9 +48,12 @@ hobbies: films, anime & games
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,js,ts,php,html,css,react&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,git,github,vscode,figma,claudedark&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,js,ts,php,html,css,react&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,git,github,vscode,figma&theme=dark" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="48" />
 </p>
+
 
 <p align="center">
   <i>「 every tool is a weapon. every line of code, a step forward. 」</i>
