@@ -109,7 +109,7 @@ hobbies: films, anime & games
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=3000&pause=740&color=EB0000&center=true&vCenter=true&width=868&height=70&lines=hey+I'm+Arya;welcome+to+my+little+corner+%3C3" alt="Closing message"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&duration=3000&pause=740&color=EB0000&center=true&vCenter=true&width=868&height=70&lines=%E2%AD%90+thank+you+for+visiting+;+feel+free+to+explore+my+repositories+and+connect+with+me!" alt="Closing message"/>
 </a>
 
 </div>
