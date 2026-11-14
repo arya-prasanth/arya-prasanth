@@ -104,9 +104,6 @@ hobbies: films, anime & games
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://github.com/arya-prasanth">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
-</a>
 
 <br/><br/>
 
