@@ -92,6 +92,10 @@ hobbies: films, anime & games
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
 </a>
 &nbsp;
+<a href="mailto:aryaprasanth.official@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/>
+</a>
+&nbsp;
 <a href="https://instagram.com/a_ry.x">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram"/>
 </a>
@@ -100,10 +104,7 @@ hobbies: films, anime & games
   <img src="https://img.shields.io/badge/Letterboxd-00CC99?style=for-the-badge&logo=letterboxd&logoColor=white" height="40" alt="Letterboxd"/>
 </a>
 &nbsp;
-<a href="mailto:aryaprasanth.official@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/>
-</a>
-&nbsp;
+
 
 <br/><br/>
 
