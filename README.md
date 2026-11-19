@@ -47,7 +47,8 @@ hobbies: films, anime & games
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,cpp,js,ts,php,html,css,react,nodejs&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=express,flask,mysql,mongodb,googlecolab,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=express,flask,mysql,mongodb,git,github,vscode,figma&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/claude/D97757" height="48" />
 </p>
 
